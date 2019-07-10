@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-            
-
-
-# In[13]:
-
+#832. Flipping an Image
 
 class Solution:
     def flipAndInvertImage(self, A):
@@ -27,10 +16,5 @@ class Solution:
             for col in range(cols):
                 A[row][col] ^= 1
         return A
-
-
-# In[ ]:
-
-
 
 

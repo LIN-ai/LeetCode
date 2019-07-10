@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
-
-
-
-# In[ ]:
-
+#771.Jewels and Stones 
 
 class Solution:
     def numJewelsInStones(self, J, S):

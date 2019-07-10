@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#509. Fibonacci Number
 
 class Solution(object):
     def fib(self, N):

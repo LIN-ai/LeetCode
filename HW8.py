@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#908. Smallest Range I
 
 class Solution(object):
     def smallestRangeI(self, A, K):

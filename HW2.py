@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#806. Number of Lines To Write String
 
 class Solution(object):
     def numberOfLines(self, widths, S):

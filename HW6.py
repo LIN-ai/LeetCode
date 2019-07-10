@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#657. Robot Return to Origin
 
 class Solution(object):
     def judgeCircle(self, moves):

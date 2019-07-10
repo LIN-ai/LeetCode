@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#961. N-Repeated Element in Size 2N Array
 
 class Solution(object):
     def repeatedNTimes(self, A):

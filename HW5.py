@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+#1051. Height Checker
 
 class Solution(object):
     def heightChecker(self, heights):

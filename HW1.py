@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
+#709. To Lower Case
 
 class Solution(object):
     def toLowerCase(self, str):
@@ -13,10 +9,5 @@ class Solution(object):
         s =str.lower()
         
         return s
-
-
-# In[ ]:
-
-
 
 

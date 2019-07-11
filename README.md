@@ -1,3 +1,3 @@
 # LeetCode
 LeetCode_practicee
-![csdn-logo]][img.png
+![img](https://github.com/LIN-ai/LeetCode/blob/master/img.png?raw=true)

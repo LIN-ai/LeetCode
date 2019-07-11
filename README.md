@@ -1,3 +1,3 @@
 # LeetCode
 LeetCode_practicee
-![Alt text](/LIN-ai/LeetCode/img.png)
+![Alt text](/path/to/img.jpg)

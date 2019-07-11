@@ -1,3 +1,3 @@
 # LeetCode
 LeetCode_practicee
-!(/LIN-ai/LeetCode/img.png)
+![GITHUB]("img.png")
